@@ -84,7 +84,7 @@ Netlify의 경우 자동으로 빌드도 해주기 때문에 Github처럼 빌드
 
 DNSZI를 사용한 이유는 **civar.io**는 앞으로 빌드 후 호스팅 한 web에서도 사용하기 위해 구입한 도메인이기 때문에 편하게 DNS를 관리할 수 있는 DNSZI를 채택하게 되었다. 나중에 **CloudFlare**도 생각중이다.
 
-![DNSZI CNAME](5.JPg)
+![DNSZI CNAME](5.JPG)
 
 DNSZI에 CNAME으로 Netlify에서 기존으로 제공해주는 Domain을 연결해준다.
 
@@ -96,7 +96,7 @@ Netlify에서 Https 설정과 Domain 설정을 동시에 해줘야 한다.
 
 DNSZI에 CNAME으로 등록했던 Domain 아래에 사용한 Domain이 보인다 이 후, DNS를 검사하는 과정에서 NETLFY DNS가 뜬다면 정상적으로 인식이 된것이다. 모든 서비스는 등록 후 일정 시간 후에 적용되기 때문에 차분히 커피를 한잔 마시면서 기다리는게 좋다.
 
-![Coffee Time](7.JPG)
+![Coffee Time](7.jpg)
 
 DNS 설정하면서 헤멘거 생각하면... 커피가 보약이다.
 
