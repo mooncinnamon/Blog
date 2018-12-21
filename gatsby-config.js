@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://blog.civar.io',
     title: 'Blog by Moon Cinnamon',
     subtitle:
-      '이것 저것',
+      'Java | Javascript | Python \nWeb-Developer\nCocktail | Photo',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
