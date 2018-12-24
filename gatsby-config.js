@@ -19,6 +19,10 @@ module.exports = {
         path: '/algo/',
       },
       {
+        label: 'Fundamental',
+        path: '/Fundamental/'
+      },
+      {
         label: 'About me',
         path: '/about/',
       },
