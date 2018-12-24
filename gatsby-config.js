@@ -20,7 +20,7 @@ module.exports = {
       },
       {
         label: 'Fundamental',
-        path: '/Fundamental/'
+        path: '/fundamental/'
       },
       {
         label: 'About me',
