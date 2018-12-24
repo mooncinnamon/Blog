@@ -16,11 +16,11 @@ module.exports = {
       },
       {
         label: 'Argorithm',
-        path: '/posts/algo/',
+        path: '/algo/',
       },
       {
         label: 'Fundamental',
-        path: '/posts/fundamental/'
+        path: '/fundamental/'
       },
       {
         label: 'About me',
