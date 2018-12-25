@@ -1,5 +1,5 @@
 ---
-title: Start Spring
+title: Start Spring 1
 date: "2018-12-24T00:00:00.000Z"
 layout: post
 draft: false
@@ -63,7 +63,7 @@ OK버튼을 누르면 약간 구조가 변한걸 볼 수 있다!
 
 이제 정말 비어있는 프로젝트가 완성되었으니 스프링을 세팅해보자.
 
-## Setting Project
+# 2nd Step: Setting Project
 
 먼저 기본적인 구조를 보면 **src** 폴더가 있고 그 아래에 **java**와 **resources** 폴더가 있다. 아주 당연하게도 이 부분에 자바의 코드가 들어갈 것이다.
 
@@ -131,7 +131,7 @@ maven-repo - [ https://mvnrepository.com ]
                     <artifactId>maven-compiler-plugin</artifactId>
                     <version>3.8.0</version>
                     <configuration>
-                        <scope>1.8</scope>
+                        <source>1.8</source>
                         <target>1.8</target>
                     </configuration>
                 </plugin>
@@ -219,7 +219,7 @@ dependencis에 추가된 두개의 dependency다 하나는 javax.servlet 다른 
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.0</version>
                 <configuration>
-                    <scope>1.8</scope>
+                    <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
             </plugin>
