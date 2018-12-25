@@ -14,4 +14,6 @@ path: "/fundamental"
 
 ![스프링 철저 입문](1.PNG)
 
-1 - [Spring Start !](https://blog.civar.io/posts/fundamental/spring/1)
+1 - [Spring Start ! - 2](https://blog.civar.io/posts/fundamental/spring/1)
+
+2 - [Spring Start ! - 2](https://blog.civar.io/posts/fundamental/spring/2)
