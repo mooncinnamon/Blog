@@ -42,7 +42,6 @@ module.exports = {
     },
   },
   plugins: [
-    'gatsby-plugin-robots-txt',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -209,6 +208,14 @@ module.exports = {
         ],
         precision: 8,
       },
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://blog.civar.io',
+        sitemap: 'https://blog.civar.io/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
     },
   ],
 }
