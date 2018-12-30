@@ -1,6 +1,6 @@
 ---
 title: Intellij Spring DevENV with Docker
-date: "2018-12-25T00:00:00.000Z"
+date: "2018-12-29T00:00:00.000Z"
 layout: post
 draft: false
 path: "/posts/intellij-setting-docker-dev/"
