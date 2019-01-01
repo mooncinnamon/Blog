@@ -23,6 +23,10 @@ module.exports = {
         path: '/fundamental/'
       },
       {
+        label: 'Photo',
+        path: '/photo/'
+      },
+      {
         label: 'About me',
         path: '/about/',
       },
