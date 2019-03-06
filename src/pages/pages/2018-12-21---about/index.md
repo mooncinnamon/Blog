@@ -5,8 +5,11 @@ path: "/about"
 ---
 
 YuBin Moon
+
 Tel - 010-9425-0283
+
 Email - moon.pinnamon@gmail.com
+
 HomePage - Previous Blog (https://mooncinnamon.github.io/)
 
 # Education
