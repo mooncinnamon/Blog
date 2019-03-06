@@ -29,4 +29,3 @@ HIGH-PERFORMANCE DATA PROCESSING & ANALYSIS LAB ( 2017.06 ~ Current )
 Technical Skills : Python, Java, Javascript, Docker, Dev-ops, Chatbot
 
 Framework : Node.js, Spring, Django, Flask, React
-
