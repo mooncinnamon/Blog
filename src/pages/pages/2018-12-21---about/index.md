@@ -7,6 +7,7 @@ path: "/about"
 YuBin Moon
 Tel - 010-9425-0283
 Email - moon.pinnamon@gmail.com
+HomePage - Previous Blog (https://mooncinnamon.github.io/)
 
 # Education
 
@@ -23,3 +24,4 @@ HIGH-PERFORMANCE DATA PROCESSING & ANALYSIS LAB ( 2017.06 ~ Current )
 Technical Skills : Python, Java, Javascript, Docker, Dev-ops, Chatbot
 
 Framework : Node.js, Spring, Django, Flask, React
+
