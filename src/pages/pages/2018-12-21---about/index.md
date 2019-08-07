@@ -24,6 +24,8 @@ Ebay Summer InternShip ( 2018.07 ~ 2018.08 )
 
 HIGH-PERFORMANCE DATA PROCESSING & ANALYSIS LAB ( 2017.06 ~ Current )
 
+Ebay BuyerExperience Team ( 2019.07 ~ Current )
+
 # Skills
 
 Technical Skills : Python, Java, Javascript, Docker, Dev-ops, Chatbot
