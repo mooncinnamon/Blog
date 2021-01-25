@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://admiring-albattani-c9349c.netlify.com/* http://blog.civar.io/:splat 301!
